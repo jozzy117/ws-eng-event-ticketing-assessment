@@ -5,3 +5,4 @@ dist
 *.zip
 *.patch
 package-lock.json
+config.bat
